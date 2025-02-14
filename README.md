@@ -25,6 +25,7 @@ Below is the comparison of actual vs. predicted stock prices:
 How to Run:
 Clone the repository:
 git clone https://github.com/Rajesh-M01/Stock-Price-Prediction-CNN-LSTM.git
+
 cd Stock-Price-Prediction-CNN-LSTM
 pip install tensorflow pandas numpy scikit-learn matplotlib  
 
