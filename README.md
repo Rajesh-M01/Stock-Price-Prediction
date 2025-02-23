@@ -44,7 +44,7 @@ How to combine CNN and LSTM for time series forecasting.
 Importance of scaling data before feeding into LSTMs.
 How to visualize model predictions for stock prices.
 
-📢 Connect with Me
+🚀 Connect with Me
 If you liked this project, feel free to ⭐ the repository and connect with me on https://www.linkedin.com/in/rajesh-m-a42539317/! 🚀
 
 
