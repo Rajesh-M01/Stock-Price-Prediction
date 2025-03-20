@@ -9,7 +9,6 @@ Model Overview :
 Preprocessing: Min-Max Scaling for normalization.
 
 Architecture:
-CNN Layer: Extracts spatial features.
 LSTM Layer: Captures sequential patterns.
 Dense Layers: Outputs the final stock price predictions.
 Loss Function: Mean Squared Error (MSE).
