@@ -1,5 +1,5 @@
-# Stock-Price-Prediction-CNN-LSTM
-This project implements a CNN-LSTM hybrid model for time series forecasting to predict stock prices. The model leverages CNN for feature extraction and LSTM for sequential learning, making it more effective for analyzing stock trends and understanding about the market better.
+# Stock-Price-Prediction-LSTM
+This project implements a LSTM hybrid model for time series forecasting to predict stock prices. The model leverages LSTM for sequential learning, making it more effective for analyzing stock trends and understanding about the market better.
 
 Dataset :
 Used Tesla stock price dataset(tesla-stock-price.csv).
@@ -40,7 +40,7 @@ Matplotlib
 Scikit-learn
 
 Key Learnings
-How to combine CNN and LSTM for time series forecasting.
+How to use LSTM for time series forecasting.
 Importance of scaling data before feeding into LSTMs.
 How to visualize model predictions for stock prices.
 
